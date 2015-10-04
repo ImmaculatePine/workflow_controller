@@ -1,0 +1,4 @@
+en:
+  workflow_controller:
+    success: 'Record was updated'
+    failed: 'Record was not updated'
